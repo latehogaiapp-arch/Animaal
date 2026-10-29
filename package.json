@@ -1,0 +1,15 @@
+{
+  "name": "premium-vip-api",
+  "version": "1.0.0",
+  "description": "Backend API for Premium VIP App Webhooks",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "the dark",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  }
+}
